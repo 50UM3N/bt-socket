@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">bluetooth</string>
+    <string name="BT_UUID">0dea1a06-4285-41a8-b906-7967ddc5c3dd</string>
+</resources>

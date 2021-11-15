@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CircularProgress" parent="ThemeOverlay.AppCompat.Light">
+        <item name="colorAccent">@color/purple_700</item>
+    </style>
+</resources>

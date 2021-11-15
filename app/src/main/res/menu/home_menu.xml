@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bluetooth_enable"
+        android:icon="@drawable/ic_bluetooth"
+        android:title="Bluetooth"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/server_start"
+        android:icon="@drawable/ic_add"
+        android:title="Start Server"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/device_list"
+        android:icon="@drawable/ic_list"
+        android:title="Devices List"
+        app:showAsAction="ifRoom" />
+
+</menu>
